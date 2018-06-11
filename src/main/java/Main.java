@@ -3,10 +3,6 @@
  */
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.print("Hi!");
-    }
-
     public String concatenate(String one, String two){
         return one + two;
     }
